@@ -1,0 +1,45 @@
+
+.imgPP{
+    width: 230px;
+    height: 300px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #d3d3d3;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0;
+}
+/* .username{
+    line-height: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+} */
+.title{
+    background: gray;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: aliceblue;
+}
+.iconSL{
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}
+.cardProfile{
+    margin-top: 20px;
+}
+.profile{
+    line-height:10px;
+}
+.skill{
+    line-height: 10px;
+}
+
+.card2{
+    display: flex; 
+}
+
+@media screen and (max-width: 550px){
+
+}
